@@ -16,8 +16,16 @@
 
 😄 Pronouns: he/him/his
 
+# Portfolio
+
+- Trailhead Profile: 
+- Website:
+
 # Contact Me
 
 # Skills
 
 # Certifications
+* Salesforce Certified Platform Developer I
+
+# Trailhead Superbades
