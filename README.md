@@ -44,5 +44,8 @@
 3. Data Integration Specialist
 4. AURA Component Specialist
 
-#Industry Knowledge
+# Industry Knowledge
 1. Real-Estate Industry
+2. Health Insurances & Health Services
+3. Retail & E-Commerce
+4. Sales & Services
